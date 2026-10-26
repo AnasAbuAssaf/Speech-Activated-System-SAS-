@@ -1,1 +1,2 @@
 data/*echo !data/.gitkeepecho __pycache__/echo *.pycecho .venv/echo mlruns/
+_backup/ 
